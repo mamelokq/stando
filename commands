@@ -1,0 +1,172 @@
+Basic Commands ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎    ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎         ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎
+Summon:
+s
+/e q
+/e q1
+/e q2
+/e q3
+Summon!
+Summon1!
+Summon2!
+Summon3!
+Killer Queen!
+Star Platinum: The World
+Star Platinum : OverHeaven
+Star Platinum, Za Warudo!
+ZA WARUDO : OVER HEAVEN
+C moon!
+D4C!
+King Crimson!
+Made In Heaven!
+
+Vanish:
+Desummon!
+Vanish!
+/e w
+Target Commands
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   ‎ ‎ ‎ ‎   ‎ ‎ ‎ ‎   ‎ ‎ ‎ ‎   ‎ ‎ ‎ ‎    ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
+Target:
+Usage example: .Knock [Target] = .Knock Xk5ng
+
+Attack mode you can choose [command] :
+Combat! [Default attack Combat]
+Knife! [Knife attack]
+Pitch! [Pitchfork attack, Bigger hitbox]
+Sign! [Stopsign attack, Bigger hitbox]
+Whip! [Whip attack]
+
+Gun mode you can choose [command] :
+.Gmode Lmg [Change Gun Mode, Lmg]
+.Gmode Aug [Change Gun Mode, Aug]
+.Gmode Rifle [Change Gun Mode, Rifle]
+
+Commands:
+Kill nearest player:
+Attack! - Unattack!
+Stab! - Unstab! or Unattack! same thing
+.gkill - Unattack! or just summon it
+
+Target Commands:
+.Knock [Knock Target]
+.Bring [Bring Target]
+.Taser [Taser Target]
+.Autokill [Loop Kill Target]
+.Stomp [Stomp Target]
+.Annoy [Annoy Target]
+.Kannoy [Annoy Target with Knife]
+.Gknock [Knock Target with Gun]
+.Gstomp [Stomp Target with Gun]
+.Gbring [Bring Target with Gun]
+.Gauto [Autokill Target with Gun]
+.Smite [Fling Target]
+.View - View! [View Target]
+.Frame [Stand follow Target]
+.FrameAura [Kill player near the Target]
+.Bag [Bag player]
+.Arrest [Arrest Target, Stand need to be a police]
+
+Default Commands:
+Hidden! [Stand attack under Target]
+Default! [Stand attack Target from sky]
+Heavy! [Change attack to heavy]
+Light! [Change attack to light]
+Drop! [Drop Target]
+Throw! [Throw Target]
+Resolver! - Unresolver! [Enable resolver if someone uses anti]
+.Whitelist [Whitelist Target]
+.Unwhitelist [Unwhitelist Target]
+.Give [Give your stand to Target]
+.Return [Return the stand to you]
+
+Sex:
+Only use this command if the Target is near you
+.Blow [Target]
+.Doggy [Target]
+Miscellaneous Commands
+Mask Stuff:
+Hide! [Stand buy mask and hide the display]
+Change mask in game command:
+.Surgeon [Change Mask To Surgeon]
+.Paintball [Change Mask To Paintball]
+.Pumpkin [Change Mask To Pumpkin]
+.Hockey [Change Mask To Hockey]
+.Ninja [Change Mask To Ninja]
+.Riot [Change Mask To Riot]
+
+Hover Animation:
+.Hover [Change hover to Hover]
+.FlyV1 [Change hover to FlyV1]
+.FlyV2 [Change hover to FlyV2]
+.Glide [Change hover to Glide]
+.Heaven [Change hover to Heaven]
+
+Teleport:
+This is for people that don't exploit on the owner account.
+
+Teleport owner example: goto! bank
+You can also use 6 other commands to teleport the owner:
+tp! [place], to! [place], goto! [place]
+.tp [place], .to [place], .goto! [place]
+
+All Locations:
+bank, Roof, club, casino, ufo, mil, school, shop1, shop2, rev, db, pool, armor, subway, subway1, sewer, wheel, safe1, safe2, safe3, safe4, safe5, basketball, boxing, bull
+
+Commands:
+Ac! [Autocall, if owner equip phone the stand will call the owner (for unmuteable)]
+Gun! [Stand buy gun]
+Rejoin! - rj! [Rejoins]
+Leave! [Leaves]
+Autosave! - Unautosave! [Saves you when knocked]
+Re! [Stand reset]
+Dcash [Stand drop cash]
+Heal! [Stand heal]
+Song! [Play custom song on the stand setting]
+StopAudio! [Stop music]
+Stop! - walk! [Pause stand]
+Crew! - Uncrew! [Joins crew]
+Autodrop! - Unautodrop! [Drop cash]
+Wallet! - Unwallet! [Equip wallet]
+Caura! - Uncaura! [Cash aura]
+Boxing! [Box farm]
+Pose1 - Pose2 - Pose3 [Poses]
+Police! [Show join]
+Autoweight! [Farm Weight]
+Lettuce! - Unlettuce! [Farm Lettuce]
+Lowgfx! [Turn on lowgfx]
+Redeem! [Da hood code]
+Unjail! [Unjail stand]
+Barrage! [Barrage]
+Muda! [Barrage]
+Ora! [Barrage]
+Altmode! (alt) [Usage: Altmode! SecondStandUser]
+Vhc! [Spawn Vehicle]
+
+Position:
+Multi stand position changer
+/w [Your stand username to silent chat]
+after silent chatting ur stand type a position [Left!]
+example:
+/w xk5ng Left!
+
+Position:
+Left!, Right!, Back!, Under!, Alt!, Center!, UpCenter!, UpLeft!, UpRight!, Walk!
+Premium Command
+What is premium for?, premium gives you ability to control someone elses stand with these following commands:
+
+!Rejoin . [Rejoin the stand]
+!Reset . [Reset the stand]
+!Bring . [Bring the stand]
+!kick . [Kick the stand]
+!Ban . [False ban]
+!Exit . [Shutdown the game]
+!Crash . [Make the stand crash]
+!Dropcash . [Make the stand drop 10,500$]
+!Follow . [Make the stand follows you]
+!Unfollow . [Make the stand unfollows you]
+!Dance . [Make the stand dance]
+!Skibiditoilet . [🚽🤫]
+
+!Betray . [Make the stand stomp its owner (only for shield bypass)]
+Makima — Today at 18:06
+Currently all the commands please to bothering us "pls fix the command"
+﻿
